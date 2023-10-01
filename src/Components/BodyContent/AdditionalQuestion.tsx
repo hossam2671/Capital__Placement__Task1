@@ -34,7 +34,7 @@ function AdditionalQuestion() {
   const [questions, setQuestions] = useState<any[]>([
     {
       type: 'paragraph',
-      content: 'Tell Us about yourself in just 500 words',
+      content: 'Tell Us about yourself in just 500 word',
     },
     {
       type: 'dropDown',
